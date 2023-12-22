@@ -1,7 +1,7 @@
 
 ## Demo
 
-https://amit-eCom.vercel.app
+https://amit-ecom.vercel.app
 
 
 
