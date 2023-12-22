@@ -3,6 +3,14 @@
 
 https://amit-ecom.vercel.app
 
+## Screenshots
+
+<img width="1711" alt="Screenshot 2023-12-22 at 4 50 26 PM" src="https://github.com/amitkashyap1234/Ecommerce/assets/154587111/3560036b-8193-45c6-ad4d-0669154c8e28">
+<img width="1708" alt="Screenshot 2023-12-22 at 4 51 09 PM" src="https://github.com/amitkashyap1234/Ecommerce/assets/154587111/00d43f3b-517d-41a2-8aeb-ea400b8e84e2">
+<img width="1710" alt="Screenshot 2023-12-22 at 4 51 03 PM" src="https://github.com/amitkashyap1234/Ecommerce/assets/154587111/4026f240-aa0d-4614-a505-47fdcfc63bcf">
+<img width="1711" alt="Screenshot 2023-12-22 at 4 50 43 PM" src="https://github.com/amitkashyap1234/Ecommerce/assets/154587111/03df6015-7850-433b-a0ba-5a6b5dfda3a0">
+<img width="1679" alt="Screenshot 2023-12-22 at 4 50 34 PM" src="https://github.com/amitkashyap1234/Ecommerce/assets/154587111/03dcb889-9ad5-4e8a-a466-af76f0f03b93">
+
 
 
 ## Run Locally
